@@ -1,0 +1,3 @@
+ask for name for the compiled file
+make it work for every book
+ask for which book you want
